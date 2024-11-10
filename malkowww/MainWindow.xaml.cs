@@ -20,7 +20,7 @@ namespace malkowww
             InitializeComponent();
         }
 
-        w// Обработчик нажатия на кнопку Add
+        // Обработчик нажатия на кнопку Add
         private void AddButton_Click(object sender, RoutedEventArgs e)
         {
             // Увеличиваем значение на 1 при каждом добавлении
